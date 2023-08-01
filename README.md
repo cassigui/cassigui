@@ -1,4 +1,7 @@
-### Olá! Eu sou o Cassiano Guilherme 🖥️
+<div>
+  <img src = "portfolio_video.gif">
+</div>
+
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliocassiano.netlify.app/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cassiano_guilherme_/)
